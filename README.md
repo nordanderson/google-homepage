@@ -1,4 +1,5 @@
-Recreating google homepage by examining the source code.
+Nord Anderson
+Recreating the look of google homepage using html and css
 theodinproject.com
 google-homepage
 ===============

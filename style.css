@@ -1,0 +1,97 @@
+body{
+	position: relative;
+	height: 100%;
+	text-align: center;
+}
+img.logo{
+	display: block;
+	margin: 0 auto 0 auto;
+	clear: both;
+	position: relative;
+	top: 150px;
+}
+input{
+	display: block;
+	margin: 20px auto 0 auto;
+	width: 600px; height: 25px;
+	border: 1px solid #1E06FA;
+	position: relative;
+	clear: both;
+	top: 150px;
+}
+.top{
+	float: right;
+	display: inline;
+	margin-right: 20px;
+	height: 30px;
+}
+#sign{
+	background: linear-gradient(#1E06FA, #6194F2);
+	padding: 7px 10px;
+	border-radius: 3px;
+}
+#sign a{
+	color: #FFF;
+	font-weight: 900;
+}
+
+ul {
+	list-style-type: none;
+}
+li{
+	display: inline;
+	padding: 0 8px;
+	
+}
+a {
+	text-decoration: none;
+	color: #000;
+	font-family: arial;
+	font-size: 13px;
+	font-weight: 500;
+}
+.bottom {
+	position: fixed;
+	bottom: 0;
+	width: 100%;
+	background-color: #F2F2F2;
+}
+.left {
+	float:left;
+	padding-left: 10px;
+}
+.right {
+	float: right;
+	padding-right: 30px;
+}
+#googlesearch{
+	display: inline-block;
+	position: relative;
+	clear: both;
+	margin: 20px 10px;
+	top: 150px;
+	background-color: #F2F2F2;
+	padding: 5px 10px;
+	border: 1px solid #D9D9D9;
+}
+#googlesearch a{
+	font-weight: bold;
+	font-size: 11px;
+}
+#lucky{
+	display: inline-block;
+	position: relative;
+	clear: both;
+	margin: 20px 10px;
+	top: 150px;
+	background-color: #F2F2F2;
+	padding: 5px 10px;
+	border: 1px solid #D9D9D9;
+}
+#lucky a{
+	font-weight: bold;
+	font-size: 11px;
+}
+.bottom ul li a{
+	color: #78797A;
+}
